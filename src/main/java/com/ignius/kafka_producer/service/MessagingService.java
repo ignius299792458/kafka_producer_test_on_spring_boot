@@ -1,4 +1,4 @@
-package com.ignius.kafka_producer.messaging;
+package com.ignius.kafka_producer.service;
 
 import com.ignius.kafka_producer.kafka_topics.MessagingTopicEnum;
 import lombok.RequiredArgsConstructor;

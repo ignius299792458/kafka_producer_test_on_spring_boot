@@ -1,9 +1,8 @@
 package com.ignius.kafka_producer.controller;
 
 
-import com.ignius.kafka_producer.messaging.MessagingService;
+import com.ignius.kafka_producer.service.MessagingService;
 import lombok.RequiredArgsConstructor;
-import org.apache.kafka.common.protocol.Message;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
